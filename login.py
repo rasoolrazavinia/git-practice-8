@@ -1,3 +1,2 @@
-x = "user"
-print("Hi")
-print(x)
+user_name = "user"
+print("Hi" + user_name)
